@@ -17,9 +17,3 @@ To verify the control performances of the CCNNB scheme, attitude tracking experi
 <video src="https://github.com/user-attachments/assets/d0cd642d-ee68-43b6-9fe0-6fd513b4ea91.mp4"></video>
 </div>
 
-### Long time experiment
-<div align=center>
-< img src="https://github.com/wenweiluo/RLOC-QCar/blob/main/long%20time%20experiment%20-%20error.jpg" width=45%>
-< img src="https://github.com/wenweiluo/RLOC-QCar/blob/main/long%20time%20experiment%20-%20position.jpg" width=45%>
-< img src="https://github.com/wenweiluo/RLOC-QCar/blob/main/long%20time%20experiment%20-%20weight.jpg" width=45%>  
-</div>
