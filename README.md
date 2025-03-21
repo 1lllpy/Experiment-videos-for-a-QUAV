@@ -9,12 +9,12 @@ To verify the control performances of the CCNNB scheme, attitude tracking experi
 
 ### ASMC Scheme
 <div align=center>
-<video src="https://private-user-images.githubusercontent.com/59788826/382994759-393862ee-d9b2-4675-93cf-35e69fc95cb2.mp4"></video>
+<video src="https://github.com/user-attachments/assets/2bf04d11-79c4-430a-9a09-1a58587c7e43.mp4"></video>
 </div>
 
 ### CNNB Scheme
 <div align=center>
-<video src="https://private-user-images.githubusercontent.com/59788826/382994759-393862ee-d9b2-4675-93cf-35e69fc95cb2.mp4"></video>
+<video src="https://github.com/user-attachments/assets/d0cd642d-ee68-43b6-9fe0-6fd513b4ea91.mp4"></video>
 </div>
 
 ### Long time experiment
