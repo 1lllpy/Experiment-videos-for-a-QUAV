@@ -1,5 +1,5 @@
 # Critic-Compensator Neural Networks-based Attitude Control for a QUAV with Load Uncertainty (Under Review)
-### Experiment video under the proposed attitude tracking control of a QUAV with load uncertainty
+### Experiment videos under the proposed attitude tracking control of a QUAV with load uncertainty
 To verify the control performances of the developed approximate RL-based control policy, trajectory tracking experiments are implemented by a car-like vehicle named as [QCar](https://www.quanser.com/products/qcar/) (Quanser self-driving car). The results show that the proposed control scheme possesses well optimization and trajectory tracking performance under input constraints.
 
 ### Round trajectory
