@@ -4,7 +4,7 @@ To verify the control performances of the CCNNB scheme, attitude tracking experi
 
 ### CCNNB Scheme
 <div align=center>
-<video src="https://private-user-images.githubusercontent.com/59788826/382994747-037814b3-51f6-4423-8aed-0cb77e36e03a.mp4"></video>
+<video src="https://github.com/user-attachments/assets/6819d134-543e-47dd-ada5-47c66b322271.mp4"></video>
 </div>
 
 ### ASMC Scheme
