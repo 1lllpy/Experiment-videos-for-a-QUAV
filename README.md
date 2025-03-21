@@ -1,6 +1,6 @@
 # Critic-Compensator Neural Networks-based Attitude Control for a QUAV with Load Uncertainty (Under Review)
 ### Experiment videos under the proposed attitude tracking control of a QUAV with load uncertainty
-To verify the control performances of the CCNNB scheme, attitude tracking experiments are implemented by a QUAV(https://www.quanser.com/products/qdrone/). The results show that the proposed control scheme possesses well optimization and trajectory tracking performance under input constraints.
+To verify the control performances of the CCNNB scheme, attitude tracking experiments are implemented by a QUAV(https://www.quanser.com/products/qdrone/). The Qdrone is securely affixed to the gimbaled column to constrain its translational motion, and the loads consisting of two semi-filled cylindrical containers are attached below. The comparative results demonstrate the CCNNB scheme achieves superior attitude control performance and lower control cost.
 
 ### Round trajectory
 <div align=center>
