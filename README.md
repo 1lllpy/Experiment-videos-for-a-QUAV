@@ -4,7 +4,7 @@ To verify the control performances of the BLC scheme, attitude tracking experime
 
 ### BLC Scheme
 <div align=center>
-<video src="https://github.com/user-attachments/assets/6819d134-543e-47dd-ada5-47c66b322271.mp4"></video>
+<video src="https://github.com/user-attachments/assets/c74c2226-6a4e-4a3a-893c-1ebe79e0755c.mp4"></video>
 </div>
 
 ### ASMC Scheme
