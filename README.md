@@ -14,6 +14,5 @@ To verify the control performances of the BLC scheme, attitude tracking experime
 
 ### BL Scheme
 <div align=center>
-<video src="https://github.com/user-attachments/assets/d0cd642d-ee68-43b6-9fe0-6fd513b4ea91.mp4"></video>
+<video src="https://github.com/user-attachments/assets/2f7f8d73-ab30-43a1-96f9-5a5488995cd2.mp4"></video>
 </div>
-
