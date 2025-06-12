@@ -1,7 +1,3 @@
-# Adaptive Learning and Online Compensation-based Attitude Control for a QUAV with Load Uncertainty (Under Review)
-### Experiment videos under the proposed attitude tracking control of a QUAV with load uncertainty
-To verify the control performances of the BLC scheme, attitude tracking experiments are implemented by a QUAV. The QUAV is firmly fixed on a rotatable column to restrict its translational movement and is connected below to a load composed of two cylindrical containers partially filled with liquid. The comparative results demonstrate the BLC scheme achieves superior attitude control performance and lower control cost.
-
 ### BLC Scheme
 <div align=center>
 <video src="https://github.com/user-attachments/assets/c74c2226-6a4e-4a3a-893c-1ebe79e0755c.mp4"></video>
